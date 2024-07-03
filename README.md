@@ -1,1 +1,0 @@
-# Aerial_Object_Detection
