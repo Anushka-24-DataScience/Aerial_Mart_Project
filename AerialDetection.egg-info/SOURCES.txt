@@ -1,3 +1,5 @@
+LICENSE
+README.md
 setup.py
 AerialDetection/__init__.py
 AerialDetection.egg-info/PKG-INFO
